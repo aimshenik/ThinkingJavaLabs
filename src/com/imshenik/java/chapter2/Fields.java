@@ -9,14 +9,15 @@ public class Fields {
 		A a = new A();
 		a.x = 10;
 		B b = a.new B();
-		
+
 	}
 
 }
-class A{
+
+class A {
 	int x = 10;
-	
-	class B{
+
+	class B {
 		int z = 20;
 	}
 }

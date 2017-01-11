@@ -1,7 +1,7 @@
 package com.imshenik.java.chapter2;
 
 public class DefaultValues {
-	
+
 	static boolean b;
 	static char c;
 	static byte by;
@@ -10,9 +10,7 @@ public class DefaultValues {
 	static long lo;
 	static float fl;
 	static double dou;
-	
-	
-	
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println(b);
